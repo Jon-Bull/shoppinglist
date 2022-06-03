@@ -1,21 +1,15 @@
 /*-------------------------------------------------------------*/
 
-// "Legg til"-knapp skal legge til ny linje -OK 
-
-// "Nullstill" skal slette alt - OK
-
-// "Enter" skal huke av og merke linjen på et vis som fullført. Enten linje gjennom eller endre farge eller noe - OK
-
-// Summere antall varer - OK
-
-// Eget felt for pris pr. stk og pris * antall?
-
-// Legg til bilder av varer på venstresiden. Bruk kode fra Section 13, advanced exercise 2, og eventlistener("click") så når man klikker på bildet så kommer det alert/prompt eller noe om antall varer, før det legges i listen.
-Evt. at bildene legges under listen / rullegardin / horisontalt galleri el.lign
-
-// Dra og slipp listeelementer? - AVANSERT, ta senere Drag and drop?
-
-// Lagre liste så den er lik når jeg - DATABASE
+[x] "Legg til"-knapp skal legge til ny linje 
+[x] "Nullstill" skal slette alt
+[x] "Enter" skal huke av og merke linjen på et vis som fullført. Enten linje gjennom eller endre farge eller noe
+[x] Summere antall varer
+[] Eget felt for pris pr. stk og pris * antall?
+[] Legg til bilder av varer på venstresiden. 
+    Bruk kode fra Section 13, advanced exercise 2, og eventlistener("click") så når man klikker på bildet så kommer det alert/prompt eller noe om antall varer, før det legges i listen.
+    Evt. at bildene legges under listen / rullegardin / horisontalt galleri el.lign
+[] Dra og slipp listeelementer? - AVANSERT, ta senere Drag and drop?
+[] Lagre liste så den er lik når jeg - DATABASE
 
 
 /*-------------------------------------------------------------*/
