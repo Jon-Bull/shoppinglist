@@ -114,6 +114,7 @@ function sumQuantity() {
 
 button.addEventListener("click", addListAfterClick);
 input.addEventListener("keypress", addListAfterKeypress);
+quantity.addEventListener("keypress", addListAfterKeypress);
 
 toggleListener();
 removeListener();
