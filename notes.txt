@@ -1,0 +1,69 @@
+/*-------------------------------------------------------------*/
+
+// "Legg til"-knapp skal legge til ny linje -OK 
+
+// "Nullstill" skal slette alt - OK
+
+// "Enter" skal huke av og merke linjen på et vis som fullført. Enten linje gjennom eller endre farge eller noe - OK
+
+// Summere antall varer - OK
+
+// Eget felt for pris pr. stk og pris * antall?
+
+// Legg til bilder av varer på venstresiden. Bruk kode fra Section 13, advanced exercise 2, og eventlistener("click") så når man klikker på bildet så kommer det alert/prompt eller noe om antall varer, før det legges i listen.
+Evt. at bildene legges under listen / rullegardin / horisontalt galleri el.lign
+
+// Dra og slipp listeelementer? - AVANSERT, ta senere Drag and drop?
+
+// Lagre liste så den er lik når jeg - DATABASE
+
+
+/*-------------------------------------------------------------*/
+// UTKLIPPSTAVLE:
+
+// p.innerHTML = input2.value;
+// input2.className = "checked";
+
+/* 
+inputFood.addEventListener("keypress", function(a) {
+    if (a.key === "Enter") {
+        
+    }
+}); 
+*/
+
+/* 
+var li = document.getElementById("item").innerHTML;
+var itemsArray = [li];
+document.getElementById("item").innerHTML = itemsArray;
+var btnResetPage = document.getElementById("btnResetPage");
+*/
+
+/*
+function btnAddNewItem() {
+    itemsArray.push(li);
+    document.getElementById("item").innerHTML = itemsArray;
+    
+    var btnItemAdded = document.getElementById("itemAdded");
+    btnItemAdded.addEventListener("click", itemAdd); OK 
+    
+    
+    Må endre til listevisning...??? og sørge for at teksten blir værende selv om jeg legger til nye linjer
+}
+*/
+
+/*
+function emptyArray() {
+    itemsArray.length = 0;
+}
+
+function itemAdd() {
+    console.log("Item Added");
+    inputFood.getElementsByClassName("checked");
+}
+*/
+/*-------------------------------------------------------------*/
+
+// btnNewItem.addEventListener("click", btnAddNewItem);
+
+// btnResetPage.addEventListener("click", emptyArray);

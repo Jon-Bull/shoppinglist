@@ -1,0 +1,37 @@
+body{
+    text-align: center; 
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#userInput {
+    width: 12%;
+}
+
+#quantity{
+    width: 4%;
+}
+
+.container {
+    text-align: center;
+}
+
+ul {
+    margin: 20px 40% 20px 40%;
+    display: grid;
+    max-width: 40%;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.done {
+    text-decoration: line-through;
+}
+
+.remove {
+    margin-left: 40px;
+}
